@@ -1,2 +1,1 @@
-# ryutyrt
-yujytuj ry yfj jyfj  thrty
+html and css practice
